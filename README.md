@@ -5,7 +5,7 @@ A simple number guessing game built using **JavaScript**. Guess the correct numb
 ---
 
 ## Features
-- Random number generation between 1 and 100.
+- Random number generation between a minNum and maxNum.
 - Real-time feedback (too high, too low, or correct).
 - Tracks the number of attempts.
 - Simple and intuitive interface.
